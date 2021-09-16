@@ -1,4 +1,5 @@
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anandpatel504&label=Profile%20views&color=0e75b6&style=flat" alt="anandpatel504" /> </p>
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
