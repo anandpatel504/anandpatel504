@@ -1,49 +1,125 @@
-<h1 align="center">Hi 👋, I'm Anand Patel</h1>
-<h3 align="center">A passionate backend developer!!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anandpatel504&label=Profile%20views&color=0e75b6&style=flat" alt="anandpatel504" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anandpatel504" alt="anandpatel504" /></a> </p>
-
-[![Website](https://img.shields.io/website?label=navgurukulLite&style=for-the-badge&url=https%3A%2F%2Fhttps://anand18.firebaseapp.com)](https://anand18.firebaseapp.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/anandpatel504?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcanandpatel504&screen_name=anandpatel504)
-
-- 🔭 I’m currently working on [Meraki](https://github.com/navgurukul/sansaar)
-
-- 🌱 I’m currently learning **everything 🤣**
-
-- 👨‍💻 All of my projects are available at [https://github.com/anandpatel504](https://github.com/anandpatel504)
-
-- 📝 I regularly write articles on [https://medium.com/@anandpatel504](https://medium.com/@anandpatel504)
-
-- 💬 Ask me about **node, mysql and postgresql**
-
-- 📫 How to reach me **anandpatel2k@gmail.com**
-<!---
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jRjhYBC7hQD8fiv-2p5hSoL4iQnPwJGb/view?usp=sharing](https://drive.google.com/file/d/1jRjhYBC7hQD8fiv-2p5hSoL4iQnPwJGb/view?usp=sharing)
--->
-
-- ⚡ Fun fact **I think I am funny 😂**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/anandpatel504" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/145/145812.svg?token=exp=1620326850~hmac=4a9dcfd896e871b36ad6459d143ac8b9" alt="anandpatel504" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anandpatel504" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/linkedin-round-color.svg" alt="anandpatel504" height="30" width="40" /></a>
-<a href="https://fb.com/anand.coder" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/1312/1312139.svg?token=exp=1620327066~hmac=b627ae3b01e679b917419b9f07e25220" alt="anand.coder" height="30" width="40" /></a>
-<a href="https://instagram.com/anand.coder" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/instagram-color.svg" alt="anand.coder" height="30" width="40" /></a>
-<a href="https://medium.com/@anandpatel504" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111502.svg?token=exp=1620327182~hmac=0332f3a87aad0e9e9c933b9097125e32" alt="@anandpatel504" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anandpatel504&show_icons=true&locale=en&layout=compact" alt="anandpatel504" /></p>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anandpatel504&show_icons=true&locale=en" alt="anandpatel504" /></p>
+✔ Callme: ***Anand Patel*** or ***TeamWorker*** 😊 <br>
+✔ 🔭 I’m currently working on [Meraki](https://github.com/navgurukul/sansaar)<br>
+✔ 🌱 I’m currently learning **everything 🤣**<br>
+✔ 👨‍💻 All of my projects are available at [https://github.com/anandpatel504](https://github.com/anandpatel504)<br>
+✔ 📝 I regularly write articles on [https://medium.com/@anandpatel504](https://medium.com/@anandpatel504)<br>
+✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
+✔ 📫 How to reach me **anandpatel2k@gmail.com**<br>
+✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anandpatel504&" alt="anandpatel504" /></p>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=anandpatel504&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Things I Know ....***
+> <i>Tools, languages, and other things that I like to work with.</i>
+<br>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a>
+        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/py.svg" width="40"/>
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/js.svg" width="40"/>
+      </a>
+      <br>Javascript
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40"/>
+      </a>
+      <br>NodeJS
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" width="40"/>
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/233px-Postgresql_elephant.svg.png" width="40"/>
+      </a>
+      <br>Postgress
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/html.svg" width="40"/>
+      </a>
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/css.svg" width="40"/>
+      </a>
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/react.svg" width="40"/>
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/bootstrap.svg" width="40"/>
+      </a>
+      <br>Bootstrap
+    </td>
+     <td align="center" width="96">
+      <a>
+        <img src="https://images.ctfassets.net/lpjm8d10rkpy/6GIrtBy1QABNIFNcnyKxo1/8e651d482fe0e350280991535b171582/aws.svg" width="40"/>
+      </a>
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40"/>
+      </a>
+      <br>Heroku
+    </td>
+  </tr>
+</table>
+<br>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***LIVE PROJECTS ....***
+><i>Click on ICON to preview.</i>
+<br>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a target="_blank" href="https://anand18.firebaseapp.com/">
+        <img src="https://scontent-del1-2.xx.fbcdn.net/v/t31.18172-8/14707959_1225843714154396_7300987834643196205_o.jpg?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=-G5l1TMDRoIAX-elA1u&tn=M_MTfS5gMQXuZKDe&_nc_ht=scontent-del1-2.xx&oh=c9eb5c315f52f2c10758e4e55e3ed858&oe=616924BD" width="40"/>
+      </a>
+      <br>NavgurukulLite
+	</td>
+  </tr>
+</table>
+<br>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Let's Connect ....***
+<p align="center">
+	<a href="https://www.facebook.com/anand.coder/"><img src="https://img.icons8.com/bubbles/50/000000/facebook.png" alt="Facebook"/></a>
+	<a href="https://www.linkedin.com/in/anandpatel504/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.instagram.com/anand.coder/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://twitter.com/anandpatel504"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+</p>
