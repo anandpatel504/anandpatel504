@@ -111,6 +111,12 @@
       </a>
       <br>NavgurukulLite
 	</td>
+      <td align="center" width="96">
+      <a target="_blank" href="http://anand-zomato-api.glitch.me/search_data">
+        <img src="https://seeklogo.com/images/Z/zomato-logo-200607EC4C-seeklogo.com.png" width="40"/>
+      </a>
+      <br>Zomato
+	</td>
   </tr>
 </table>
 <br>
