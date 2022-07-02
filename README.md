@@ -108,7 +108,7 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <a target="_blank" href="https://anand18.firebaseapp.com/">
+      <a target="_blank" href="https://navgurukul-lite.web.app/about">
         <img src="https://avatars.githubusercontent.com/u/88048839?s=280&v=4" width="40"/>
       </a>
       <br>NavgurukulLite
