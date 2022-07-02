@@ -32,13 +32,13 @@
   <tr>
     <td align="center" width="96">
       <a>
-        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/py.svg" width="40"/>
+        <img src="https://cdn.iconscout.com/icon/free/png-256/python-2752092-2284909.png" width="40"/>
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/js.svg" width="40"/>
+        <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-with-coffee-logo-10.png" width="40"/>
       </a>
       <br>Javascript
     </td>
@@ -50,7 +50,7 @@
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" width="40"/>
+        <img src="https://www.pngfind.com/pngs/m/74-744138_mysql-logo-png-mysql-transparent-png.png" width="40"/>
       </a>
       <br>MySQL
     </td>
@@ -62,25 +62,25 @@
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/html.svg" width="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" width="40"/>
       </a>
       <br>HTML
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/css.svg" width="40"/>
+        <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-css-logo-png-transparent-svg-vector-bie-supply-9.png" width="40"/>
       </a>
       <br>CSS
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/react.svg" width="40"/>
+        <img src="https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png" width="40"/>
       </a>
       <br>React
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/bootstrap.svg" width="40"/>
+        <img src="https://toppng.com//public/uploads/preview/bootstrap-featured-image-bootstrap-3-logo-11563293130teouf93qpu.png" width="40"/>
       </a>
       <br>Bootstrap
     </td>
@@ -109,7 +109,7 @@
   <tr>
     <td align="center" width="96">
       <a target="_blank" href="https://anand18.firebaseapp.com/">
-        <img src="https://scontent-del1-2.xx.fbcdn.net/v/t31.18172-8/14707959_1225843714154396_7300987834643196205_o.jpg?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=-G5l1TMDRoIAX-elA1u&tn=M_MTfS5gMQXuZKDe&_nc_ht=scontent-del1-2.xx&oh=c9eb5c315f52f2c10758e4e55e3ed858&oe=616924BD" width="40"/>
+        <img src="https://avatars.githubusercontent.com/u/88048839?s=280&v=4" width="40"/>
       </a>
       <br>NavgurukulLite
 	</td>
@@ -126,8 +126,8 @@
 
 &nbsp;***Let's Connect ....***
 <p align="center">
-	<a href="https://www.facebook.com/anand.coder/"><img src="https://img.icons8.com/bubbles/50/000000/facebook.png" alt="Facebook"/></a>
-	<a href="https://www.linkedin.com/in/anandpatel504/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/anand.coder/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://twitter.com/anandpatel504"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+	<a href="https://www.facebook.com/anand.coder/"><img src="https://img.icons8.com/color/50/000000/facebook.png" alt="Facebook"/></a>
+	<a href="https://www.linkedin.com/in/anandpatel504/"><img src="https://img.icons8.com/color/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.instagram.com/anand.coder/"><img src="https://img.icons8.com/fluency/50/000000/instagram-new.png" alt="Instagram"/></a>
+	<a href="https://twitter.com/anandpatel504"><img src="https://img.icons8.com/fluency/50/000000/twitter.png" alt="Twitter"/></a>
 </p>
