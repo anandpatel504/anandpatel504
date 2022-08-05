@@ -119,6 +119,12 @@
       </a>
       <br>Zomato
 	</td>
+      <td align="center" width="96">
+      <a target="_blank" href="https://blogofile.herokuapp.com/">
+        <img src="https://www.nicepng.com/png/detail/769-7695772_sample-blog-icon-org2x-cms-made-simple-logo.png" width="40"/>
+      </a>
+      <br>BlogoFile
+	</td>
   </tr>
 </table>
 <br>
