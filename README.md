@@ -15,7 +15,7 @@
 ✔ 🌱 I’m currently learning **everything 🤣**<br>
 ✔ 👨‍💻 All of my projects are available at [https://github.com/anandpatel504](https://github.com/anandpatel504)<br>
 ✔ 📝 I regularly write articles on [https://medium.com/@anandpatel504](https://medium.com/@anandpatel504)<br>
-✔ 📫 How to reach me **anandpatel2k@gmail.com**<br>
+✔ 📫 How to reach me **heyanandpatel@gmail.com**<br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
 ✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
